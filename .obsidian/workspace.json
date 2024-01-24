@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "6144de58014b82be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c290cb81727c28ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b235e7ebb1eb8260",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9de261e8d579e7fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b7e7bfab295890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b27ade8ac4aa110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51b0f5287d7fca90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c44ca7476161c5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "16e884d6a1e7e0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d2dd31c0b13c903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df3557645257c78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0a57c2aa6f85e41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41eb90f631cee6cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04678378d3003966",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7b27ade8ac4aa110",
+  "lastOpenFiles": [
+    "Sem título 1.canvas",
+    "POO/Paradigm is not the Implementation.md",
+    "Learning/Path to Senior Engineer - GitHub resources.md",
+    "Web/How DNS Works? - by Saurabh Dashora.md",
+    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+    "Tools/Browse a cleaner web.md",
+    "Tools/Tools.md",
+    "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
+    "Arquitetura/Arquitetura.md",
+    "Arquitetura",
+    "Tools",
+    "Software Engineer/Agile Technical Debt Management using the LTD Framework.md",
+    "Software Enginieer.md",
+    "Software Engineer/Sem título.md",
+    "Software Engineer",
+    "IA/Prompt engineering oficial doc.md",
+    "Learning/Zettelkasten vs P.A.R.A..md",
+    "Sem título.canvas",
+    "Spike em métodos ágeis.md",
+    "Web/Richardson Maturity Model.md",
+    "Web/HTTP Refresher - Things You Should Know About HTTP.md",
+    "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
+    "Learning/20 rules of formulating knowledge in learning.md",
+    "Learning",
+    "Dojo/Challenges.md",
+    "Dojo/Candidate Test Product catalog management system in a marketplace application.md",
+    "Dojo",
+    "Frameworks/Spring Boot Resources for Advanced Learners.md",
+    "Frameworks/Bus company - Coding Challenge 💻.md",
+    "Frameworks/Spring Boot.md",
+    "Frameworks",
+    "Cloud/AWS Roadmap.md",
+    "DB/What is a slow SQL query? Database branching for any Postgres DB.md",
+    "DB",
+    "Sistemas Operacionais/Pasted image 20231228203431.png",
+    "Languagens/Java",
+    "Web",
+    "Cloud",
+    "Sistemas Operacionais/Pasted image 20231128104059.png",
+    "Sistemas Operacionais/Pasted image 20231128101737.png",
+    "Sistemas Operacionais/Pasted image 20231128101713.png",
+    "Pasted image 20231121195751.png"
+  ]
+}

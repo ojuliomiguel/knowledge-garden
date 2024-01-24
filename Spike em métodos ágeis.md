@@ -1,0 +1,1 @@
+[Spike em métodos ágeis: Adquirindo conhecimento durante a Sprint | by Vitor Pires | Experience Valley | Medium](https://medium.com/experience-valley/spike-fb62eb2a0b1f)
