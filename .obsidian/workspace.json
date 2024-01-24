@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c290cb81727c28ef",
+        "id": "1b1f87c672bd1bac",
         "type": "tabs",
         "children": [
           {
-            "id": "b235e7ebb1eb8260",
+            "id": "e6056ad8dcc55aa9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,9 +121,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "d89063cdd818c25e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,8 +148,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b27ade8ac4aa110",
+  "active": "e6056ad8dcc55aa9",
   "lastOpenFiles": [
+    "Web/teste sync.md",
+    "Teste sync.md",
+    "Spike em métodos ágeis.md",
     "Sem título 1.canvas",
     "POO/Paradigm is not the Implementation.md",
     "Learning/Path to Senior Engineer - GitHub resources.md",
@@ -159,7 +171,6 @@
     "IA/Prompt engineering oficial doc.md",
     "Learning/Zettelkasten vs P.A.R.A..md",
     "Sem título.canvas",
-    "Spike em métodos ágeis.md",
     "Web/Richardson Maturity Model.md",
     "Web/HTTP Refresher - Things You Should Know About HTTP.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
@@ -173,7 +184,6 @@
     "Frameworks/Spring Boot.md",
     "Frameworks",
     "Cloud/AWS Roadmap.md",
-    "DB/What is a slow SQL query? Database branching for any Postgres DB.md",
     "DB",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Languagens/Java",
