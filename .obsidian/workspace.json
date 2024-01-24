@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a429885f78160552",
+            "id": "1158982c859d7343",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testando 123.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testando 123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testando 123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testando 123.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a429885f78160552",
+  "active": "1158982c859d7343",
   "lastOpenFiles": [
+    "Arquitetura/System Design Roadmap with Videos for SDEs.md",
     "Testando 123.md",
     "Testando 3 2 1.md",
     "Teste sync.md",
@@ -190,7 +182,6 @@
     "Dojo/Challenges.md",
     "Dojo/Candidate Test Product catalog management system in a marketplace application.md",
     "Dojo",
-    "Frameworks/Spring Boot Resources for Advanced Learners.md",
     "Frameworks",
     "DB",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
