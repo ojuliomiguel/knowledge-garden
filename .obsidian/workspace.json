@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1b1f87c672bd1bac",
+        "id": "e5f4f73f3939779e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6056ad8dcc55aa9",
+            "id": "a429885f78160552",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testando 123.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testando 123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testando 123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testando 123.md"
+              }
             }
           },
           {
@@ -148,8 +156,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e6056ad8dcc55aa9",
+  "active": "a429885f78160552",
   "lastOpenFiles": [
+    "Testando 123.md",
+    "Testando 3 2 1.md",
+    "Teste sync.md",
     "Web/teste sync.md",
     "Teste sync.md",
     "Spike em métodos ágeis.md",
@@ -180,10 +191,7 @@
     "Dojo/Candidate Test Product catalog management system in a marketplace application.md",
     "Dojo",
     "Frameworks/Spring Boot Resources for Advanced Learners.md",
-    "Frameworks/Bus company - Coding Challenge 💻.md",
-    "Frameworks/Spring Boot.md",
     "Frameworks",
-    "Cloud/AWS Roadmap.md",
     "DB",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Languagens/Java",
