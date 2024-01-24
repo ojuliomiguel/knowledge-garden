@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c35ce26eb777abd7",
+        "id": "1c3853a1efbd184c",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f13e99df1b3ade",
+            "id": "3ca5a7d3cdd23556",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -147,15 +155,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b2f13e99df1b3ade",
+  "active": "3ca5a7d3cdd23556",
   "lastOpenFiles": [
+    "Pasted image 20231128101713.png",
+    "Assets/graph.png",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
     "Sistemas Operacionais/Pasted image 20231128101737.png",
-    "Pasted image 20231128101713.png",
     "Readme.md",
+    "Assets",
     "Spike em métodos ágeis.md",
-    "Sistemas Operacionais/Pasted image 20240124115055.png",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
     "Testando 123.md",
     "Testando 3 2 1.md",
@@ -190,7 +199,6 @@
     "DB",
     "Languagens/Java",
     "Web",
-    "Cloud",
     "Pasted image 20231121195751.png"
   ]
 }
