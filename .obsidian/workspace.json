@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f4f73f3939779e",
+        "id": "c35ce26eb777abd7",
         "type": "tabs",
         "children": [
           {
-            "id": "1158982c859d7343",
+            "id": "b2f13e99df1b3ade",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "e2e9a51e5696b59a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,17 +147,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2e9a51e5696b59a",
+  "active": "b2f13e99df1b3ade",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Pasted image 20231228203431.png",
+    "Sistemas Operacionais/Pasted image 20231128104059.png",
+    "Sistemas Operacionais/Pasted image 20231128101737.png",
+    "Pasted image 20231128101713.png",
+    "Readme.md",
+    "Spike em métodos ágeis.md",
     "Sistemas Operacionais/Pasted image 20240124115055.png",
-    "Readme.md.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
     "Testando 123.md",
     "Testando 3 2 1.md",
     "Teste sync.md",
     "Web/teste sync.md",
     "Teste sync.md",
-    "Spike em métodos ágeis.md",
     "Sem título 1.canvas",
     "POO/Paradigm is not the Implementation.md",
     "Learning/Path to Senior Engineer - GitHub resources.md",
@@ -201,13 +188,9 @@
     "Dojo",
     "Frameworks",
     "DB",
-    "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Languagens/Java",
     "Web",
     "Cloud",
-    "Sistemas Operacionais/Pasted image 20231128104059.png",
-    "Sistemas Operacionais/Pasted image 20231128101737.png",
-    "Sistemas Operacionais/Pasted image 20231128101713.png",
     "Pasted image 20231121195751.png"
   ]
 }
