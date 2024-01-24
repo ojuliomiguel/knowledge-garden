@@ -11,11 +11,24 @@
             "id": "1158982c859d7343",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e2e9a51e5696b59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md.md"
+              }
             }
           },
           {
@@ -147,8 +164,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1158982c859d7343",
+  "active": "e2e9a51e5696b59a",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Pasted image 20240124115055.png",
+    "Readme.md.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
     "Testando 123.md",
     "Testando 3 2 1.md",
@@ -179,8 +198,6 @@
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
     "Learning/20 rules of formulating knowledge in learning.md",
     "Learning",
-    "Dojo/Challenges.md",
-    "Dojo/Candidate Test Product catalog management system in a marketplace application.md",
     "Dojo",
     "Frameworks",
     "DB",
