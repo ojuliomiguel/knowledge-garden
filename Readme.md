@@ -1,5 +1,14 @@
 
-# Jardim de Conhecimentos (apenas referências) de recursos a respeito de Desenvolvimento de Software e Tecnologias em geral.
+# Jardim de Conhecimentos 
+
+Referências de recursos a respeito de Desenvolvimento de Software e Tecnologias em geral.
 
 
 ![](Assets/graph.png)
+
+--- 
+Me encontre em: 
+
+[Linkedin]([Júlio Miguel | LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-miguel-82b8ab1a0/))
+
+
