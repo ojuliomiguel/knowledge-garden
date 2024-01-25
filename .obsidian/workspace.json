@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md"
               }
             }
           },
@@ -157,12 +157,13 @@
   },
   "active": "3ca5a7d3cdd23556",
   "lastOpenFiles": [
+    "Readme.md",
+    "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
     "Pasted image 20231128101713.png",
     "Assets/graph.png",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
     "Sistemas Operacionais/Pasted image 20231128101737.png",
-    "Readme.md",
     "Assets",
     "Spike em métodos ágeis.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
