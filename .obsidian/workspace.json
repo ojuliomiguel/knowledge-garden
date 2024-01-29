@@ -11,8 +11,12 @@
             "id": "f056ec2f5064d4f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testes/Sem título.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testes/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testes/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testes/Sem título.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
   },
   "active": "f056ec2f5064d4f6",
   "lastOpenFiles": [
+    "Testes/Sem título.md",
     "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
     "Readme.md",
     "Pasted image 20231128101713.png",
@@ -185,7 +194,6 @@
     "Web/Richardson Maturity Model.md",
     "Web/HTTP Refresher - Things You Should Know About HTTP.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
-    "Learning/20 rules of formulating knowledge in learning.md",
     "Learning",
     "Dojo",
     "Frameworks",
