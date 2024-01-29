@@ -11,12 +11,8 @@
             "id": "f056ec2f5064d4f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testes/Sem título.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testes/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testes/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testes/Sem título.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +150,9 @@
   },
   "active": "f056ec2f5064d4f6",
   "lastOpenFiles": [
-    "Testes/Sem título.md",
+    "Testes/Testes.md",
+    "Testes/TDD.md",
+    "Testes/Performance Engineering of Software Systems - MIT.md",
     "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
     "Readme.md",
     "Pasted image 20231128101713.png",
@@ -192,8 +187,6 @@
     "Learning/Zettelkasten vs P.A.R.A..md",
     "Sem título.canvas",
     "Web/Richardson Maturity Model.md",
-    "Web/HTTP Refresher - Things You Should Know About HTTP.md",
-    "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
     "Learning",
     "Dojo",
     "Frameworks",
