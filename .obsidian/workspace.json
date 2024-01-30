@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7da1f9e39a00e7c6",
+        "id": "25f993f42040743f",
         "type": "tabs",
         "children": [
           {
-            "id": "f056ec2f5064d4f6",
+            "id": "af66fc4b1751b0b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -148,14 +147,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f056ec2f5064d4f6",
+  "active": "af66fc4b1751b0b7",
   "lastOpenFiles": [
+    "Web/Certificado Profissional IBM Front-End Developer.md",
+    "Web/FrontEnd.md",
+    "Pasted image 20231128101713.png",
     "Testes/Testes.md",
     "Testes/TDD.md",
     "Testes/Performance Engineering of Software Systems - MIT.md",
     "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
     "Readme.md",
-    "Pasted image 20231128101713.png",
     "Assets/graph.png",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
@@ -184,9 +185,7 @@
     "Software Engineer/Sem título.md",
     "Software Engineer",
     "IA/Prompt engineering oficial doc.md",
-    "Learning/Zettelkasten vs P.A.R.A..md",
     "Sem título.canvas",
-    "Web/Richardson Maturity Model.md",
     "Learning",
     "Dojo",
     "Frameworks",
