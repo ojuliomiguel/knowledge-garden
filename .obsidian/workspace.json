@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25f993f42040743f",
+        "id": "2e1c2c3fb56b4f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "af66fc4b1751b0b7",
+            "id": "6393663fc93174d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231128101713.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted image 20231128101713.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pasted image 20231128101713.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pasted image 20231128101713.png"
+              }
             }
           },
           {
@@ -147,11 +153,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "af66fc4b1751b0b7",
+  "active": "6393663fc93174d1",
   "lastOpenFiles": [
-    "Web/Certificado Profissional IBM Front-End Developer.md",
-    "Web/FrontEnd.md",
+    "Devops/Kubernets Native Objects.md",
+    "Sistemas Operacionais/Pasted image 20240130151343.png",
+    "Devops",
     "Pasted image 20231128101713.png",
+    "Web/Richardson Maturity Model.md",
+    "Web/Certificado Profissional IBM Front-End Developer.md",
+    "Web/Authorization.md",
+    "Web/Authentication.md",
+    "Web/FrontEnd.md",
     "Testes/Testes.md",
     "Testes/TDD.md",
     "Testes/Performance Engineering of Software Systems - MIT.md",
@@ -177,21 +189,15 @@
     "Tools/Browse a cleaner web.md",
     "Tools/Tools.md",
     "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
-    "Arquitetura/Arquitetura.md",
     "Arquitetura",
     "Tools",
-    "Software Engineer/Agile Technical Debt Management using the LTD Framework.md",
-    "Software Enginieer.md",
-    "Software Engineer/Sem título.md",
     "Software Engineer",
-    "IA/Prompt engineering oficial doc.md",
     "Sem título.canvas",
     "Learning",
     "Dojo",
     "Frameworks",
     "DB",
     "Languagens/Java",
-    "Web",
     "Pasted image 20231121195751.png"
   ]
 }
