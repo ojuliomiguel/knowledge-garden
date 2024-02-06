@@ -11,10 +11,8 @@
             "id": "6393663fc93174d1",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231128101713.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231128101713.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231128101713.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted image 20231128101713.png"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +150,16 @@
   },
   "active": "6393663fc93174d1",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Unix.md",
+    "Sistemas Operacionais/Pasted image 20231228203431.png",
+    "Sistemas Operacionais/Pasted image 20231128104059.png",
+    "Sistemas Operacionais/Pasted image 20231128101737.png",
+    "Sistemas Operacionais/Bash.md",
+    "Assets/graph.png",
+    "Assets/Pasted image 20240130151343.png",
     "Devops/Kubernets Native Objects.md",
-    "Sistemas Operacionais/Pasted image 20240130151343.png",
-    "Devops",
     "Pasted image 20231128101713.png",
+    "Devops",
     "Web/Richardson Maturity Model.md",
     "Web/Certificado Profissional IBM Front-End Developer.md",
     "Web/Authorization.md",
@@ -169,10 +170,6 @@
     "Testes/Performance Engineering of Software Systems - MIT.md",
     "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
     "Readme.md",
-    "Assets/graph.png",
-    "Sistemas Operacionais/Pasted image 20231228203431.png",
-    "Sistemas Operacionais/Pasted image 20231128104059.png",
-    "Sistemas Operacionais/Pasted image 20231128101737.png",
     "Assets",
     "Spike em métodos ágeis.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
@@ -188,7 +185,6 @@
     "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Tools/Browse a cleaner web.md",
     "Tools/Tools.md",
-    "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
     "Arquitetura",
     "Tools",
     "Software Engineer",
