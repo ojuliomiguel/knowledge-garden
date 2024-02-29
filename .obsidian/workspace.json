@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5194def83a8c2bc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6393663fc93174d1",
+  "active": "5194def83a8c2bc9",
   "lastOpenFiles": [
     "Sistemas Operacionais/Unix.md",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
