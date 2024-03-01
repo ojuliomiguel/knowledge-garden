@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2e1c2c3fb56b4f4c",
+        "id": "98622743f937968f",
         "type": "tabs",
         "children": [
           {
-            "id": "6393663fc93174d1",
+            "id": "32bf12bb407eb649",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "5194def83a8c2bc9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5194def83a8c2bc9",
+  "active": "32bf12bb407eb649",
   "lastOpenFiles": [
     "Sistemas Operacionais/Unix.md",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
