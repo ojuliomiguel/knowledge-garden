@@ -11,8 +11,12 @@
             "id": "32bf12bb407eb649",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Browse APIs - Free Apis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/Browse APIs - Free Apis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/Browse APIs - Free Apis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/Browse APIs - Free Apis.md"
+              }
             }
           },
           {
@@ -150,6 +157,7 @@
   },
   "active": "32bf12bb407eb649",
   "lastOpenFiles": [
+    "Tools/Browse APIs - Free Apis.md",
     "Sistemas Operacionais/Unix.md",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
@@ -184,7 +192,6 @@
     "Web/How DNS Works? - by Saurabh Dashora.md",
     "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Tools/Browse a cleaner web.md",
-    "Tools/Tools.md",
     "Arquitetura",
     "Tools",
     "Software Engineer",
