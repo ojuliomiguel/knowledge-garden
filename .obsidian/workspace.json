@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Browse APIs - Free Apis.md",
+                "file": "Testes/A unit test can be two or more components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Browse APIs - Free Apis.md",
+                "file": "Testes/A unit test can be two or more components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Browse APIs - Free Apis.md",
+                "file": "Testes/A unit test can be two or more components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Browse APIs - Free Apis.md"
+                "file": "Testes/A unit test can be two or more components.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "32bf12bb407eb649",
   "lastOpenFiles": [
+    "Testes/A unit test can be two or more components.md",
     "Tools/Browse APIs - Free Apis.md",
     "Sistemas Operacionais/Unix.md",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
@@ -191,7 +192,6 @@
     "Learning/Path to Senior Engineer - GitHub resources.md",
     "Web/How DNS Works? - by Saurabh Dashora.md",
     "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
-    "Tools/Browse a cleaner web.md",
     "Arquitetura",
     "Tools",
     "Software Engineer",
