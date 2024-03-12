@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes/A unit test can be two or more components.md",
+                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4168e7ec55b1b20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kube",
+                "query": "javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testes/A unit test can be two or more components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testes/A unit test can be two or more components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testes/A unit test can be two or more components.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +160,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "32bf12bb407eb649",
+  "active": "a4168e7ec55b1b20",
   "lastOpenFiles": [
+    "Languagens/JavaScript/Eloquent JavaScript - Fourth Edition.md",
+    "Languagens/Languanges.md",
+    "Languagens/JavaScript",
+    "Javascript.md",
+    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Testes/A unit test can be two or more components.md",
     "Tools/Browse APIs - Free Apis.md",
     "Sistemas Operacionais/Unix.md",
@@ -188,10 +198,6 @@
     "Web/teste sync.md",
     "Teste sync.md",
     "Sem título 1.canvas",
-    "POO/Paradigm is not the Implementation.md",
-    "Learning/Path to Senior Engineer - GitHub resources.md",
-    "Web/How DNS Works? - by Saurabh Dashora.md",
-    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Arquitetura",
     "Tools",
     "Software Engineer",
@@ -200,7 +206,6 @@
     "Dojo",
     "Frameworks",
     "DB",
-    "Languagens/Java",
     "Pasted image 20231121195751.png"
   ]
 }
