@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+                "file": "Frameworks/Video tutorial - Spring Security 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "javascript",
+                "query": "spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+                "file": "Frameworks/Video tutorial - Spring Security 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+                "file": "Frameworks/Video tutorial - Spring Security 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md"
+                "file": "Frameworks/Video tutorial - Spring Security 6.md"
               }
             }
           },
@@ -157,11 +157,15 @@
   },
   "active": "32bf12bb407eb649",
   "lastOpenFiles": [
+    "Frameworks/Spring Boot Resources for Advanced Learners.md",
+    "Frameworks/Video tutorial - Spring Security 6.md",
+    "Frameworks/Bus company - Coding Challenge 💻.md",
+    "Frameworks/Spring Boot.md",
+    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Languagens/JavaScript/Eloquent JavaScript - Fourth Edition.md",
     "Languagens/Languanges.md",
     "Languagens/JavaScript",
     "Javascript.md",
-    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Testes/A unit test can be two or more components.md",
     "Tools/Browse APIs - Free Apis.md",
     "Sistemas Operacionais/Unix.md",
@@ -188,10 +192,6 @@
     "Spike em métodos ágeis.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
     "Testando 123.md",
-    "Testando 3 2 1.md",
-    "Teste sync.md",
-    "Web/teste sync.md",
-    "Teste sync.md",
     "Sem título 1.canvas",
     "Arquitetura",
     "Tools",
