@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/Video tutorial - Spring Security 6.md",
+                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Video tutorial - Spring Security 6.md",
+                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Video tutorial - Spring Security 6.md",
+                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/Video tutorial - Spring Security 6.md"
+                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "32bf12bb407eb649",
   "lastOpenFiles": [
-    "Frameworks/Spring Boot Resources for Advanced Learners.md",
+    "Tools/Tools.md",
+    "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
     "Frameworks/Video tutorial - Spring Security 6.md",
+    "Frameworks/Spring Boot Resources for Advanced Learners.md",
     "Frameworks/Bus company - Coding Challenge 💻.md",
     "Frameworks/Spring Boot.md",
     "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
@@ -190,8 +192,6 @@
     "Readme.md",
     "Assets",
     "Spike em métodos ágeis.md",
-    "Arquitetura/System Design Roadmap with Videos for SDEs.md",
-    "Testando 123.md",
     "Sem título 1.canvas",
     "Arquitetura",
     "Tools",
