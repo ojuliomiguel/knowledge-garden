@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
+                "file": "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
+                "file": "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
+                "file": "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md"
+                "file": "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "32bf12bb407eb649",
   "lastOpenFiles": [
-    "Tools/Tools.md",
+    "Pointers.md",
+    "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
+    "Languagens/C.md",
     "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
+    "Tools/Tools.md",
     "Frameworks/Video tutorial - Spring Security 6.md",
     "Frameworks/Spring Boot Resources for Advanced Learners.md",
     "Frameworks/Bus company - Coding Challenge 💻.md",
@@ -188,10 +191,7 @@
     "Testes/Testes.md",
     "Testes/TDD.md",
     "Testes/Performance Engineering of Software Systems - MIT.md",
-    "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
-    "Readme.md",
     "Assets",
-    "Spike em métodos ágeis.md",
     "Sem título 1.canvas",
     "Arquitetura",
     "Tools",
