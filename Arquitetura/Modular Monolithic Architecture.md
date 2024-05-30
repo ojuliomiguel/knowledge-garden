@@ -1,0 +1,1 @@
+[Microservices Killer: Modular Monolithic Architecture | by Mehmet Ozkaya | Design Microservices Architecture with Patterns & Principles | Medium](https://medium.com/design-microservices-architecture-with-patterns/microservices-killer-modular-monolithic-architecture-ac83814f6862)
