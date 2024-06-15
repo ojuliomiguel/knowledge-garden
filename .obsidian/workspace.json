@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring",
+                "query": "logshare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab2df2bdda395f18",
+  "active": "51b0f5287d7fca90",
   "lastOpenFiles": [
     "Arquitetura/Modular Monolithic Architecture.md",
     "Processos/Artigo sobre documentação de design de código no Google.md",
