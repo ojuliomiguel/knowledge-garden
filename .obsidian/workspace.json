@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura/Modular Monolithic Architecture.md",
+                "file": "Tools/AstroVim.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitetura/Modular Monolithic Architecture.md",
+                "file": "Tools/AstroVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitetura/Modular Monolithic Architecture.md",
+                "file": "Tools/AstroVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitetura/Modular Monolithic Architecture.md"
+                "file": "Tools/AstroVim.md"
               }
             }
           },
@@ -156,8 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51b0f5287d7fca90",
+  "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
+    "Tools/mise-en-place.md",
+    "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
+    "Tools/AstroVim.md",
+    "Tools/Tools.md",
+    "Tools/Browse a cleaner web.md",
+    "Software Engineer/Sem título.md",
     "Arquitetura/Modular Monolithic Architecture.md",
     "Processos/Artigo sobre documentação de design de código no Google.md",
     "Spike em métodos ágeis.md",
@@ -167,8 +172,6 @@
     "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
     "Languagens/Pointers.md",
     "Languagens/C.md",
-    "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
-    "Tools/Tools.md",
     "Frameworks/Video tutorial - Spring Security 6.md",
     "Frameworks/Spring Boot Resources for Advanced Learners.md",
     "Frameworks/Bus company - Coding Challenge 💻.md",
@@ -189,10 +192,6 @@
     "Assets/Pasted image 20240130151343.png",
     "Devops/Kubernets Native Objects.md",
     "Devops",
-    "Web/Richardson Maturity Model.md",
-    "Web/Certificado Profissional IBM Front-End Developer.md",
-    "Web/Authorization.md",
-    "Web/Authentication.md",
     "Assets",
     "Sem título 1.canvas",
     "Arquitetura",
