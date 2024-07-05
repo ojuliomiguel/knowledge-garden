@@ -11,8 +11,12 @@
             "id": "ab2df2bdda395f18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
   },
   "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
+    "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
     "Fundamentos/Putting the \"You\" in CPU.md",
     "Tools/AstroVim.md",
     "Fundamentos",
@@ -181,7 +190,6 @@
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
     "Sistemas Operacionais/Pasted image 20231128101737.png",
-    "Sistemas Operacionais/Bash.md",
     "Assets/graph.png",
     "Assets/Pasted image 20240130151343.png",
     "Devops",
