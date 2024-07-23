@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos/CRUD Sem internet.md",
+                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 236.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos/CRUD Sem internet.md",
+                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos/CRUD Sem internet.md",
+                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos/CRUD Sem internet.md"
+                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md"
               }
             }
           },
@@ -157,8 +157,14 @@
   },
   "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
-    "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
+    "Arquitetura/System Design Roadmap with Videos for SDEs.md",
+    "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
+    "Arquitetura/Modular Monolithic Architecture.md",
+    "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
+    "Arquitetura/Hexagonal com Java.md",
+    "Arquitetura/Arquitetura.md",
     "Fundamentos/CRUD Sem internet.md",
+    "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
     "Fundamentos/Putting the \"You\" in CPU.md",
     "Tools/AstroVim.md",
     "Fundamentos",
@@ -167,7 +173,6 @@
     "Tools/Tools.md",
     "Tools/Browse a cleaner web.md",
     "Software Engineer/Sem título.md",
-    "Arquitetura/Modular Monolithic Architecture.md",
     "Processos/Artigo sobre documentação de design de código no Google.md",
     "Spike em métodos ágeis.md",
     "Processos",
@@ -181,12 +186,7 @@
     "Frameworks/Bus company - Coding Challenge 💻.md",
     "Frameworks/Spring Boot.md",
     "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
-    "Languagens/JavaScript/Eloquent JavaScript - Fourth Edition.md",
-    "Languagens/Languanges.md",
     "Languagens/JavaScript",
-    "Javascript.md",
-    "Testes/A unit test can be two or more components.md",
-    "Tools/Browse APIs - Free Apis.md",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
     "Sistemas Operacionais/Pasted image 20231128101737.png",
