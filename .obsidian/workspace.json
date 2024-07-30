@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+                "file": "Learning/Path to Senior Engineer - GitHub resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 224.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+                "file": "Learning/Path to Senior Engineer - GitHub resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
+                "file": "Learning/Path to Senior Engineer - GitHub resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md"
+                "file": "Learning/Path to Senior Engineer - GitHub resources.md"
               }
             }
           },
@@ -157,6 +157,12 @@
   },
   "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
+    "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
+    "Spike em métodos ágeis.md",
+    "Readme.md",
+    "Javascript.md",
+    "Pasted image 20231128101713.png",
+    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
     "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
     "Arquitetura/Modular Monolithic Architecture.md",
@@ -174,18 +180,12 @@
     "Tools/Browse a cleaner web.md",
     "Software Engineer/Sem título.md",
     "Processos/Artigo sobre documentação de design de código no Google.md",
-    "Spike em métodos ágeis.md",
     "Processos",
-    "Readme.md",
-    "Pasted image 20231128101713.png",
     "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
     "Languagens/Pointers.md",
     "Languagens/C.md",
     "Frameworks/Video tutorial - Spring Security 6.md",
     "Frameworks/Spring Boot Resources for Advanced Learners.md",
-    "Frameworks/Bus company - Coding Challenge 💻.md",
-    "Frameworks/Spring Boot.md",
-    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
