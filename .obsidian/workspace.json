@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Path to Senior Engineer - GitHub resources.md",
+                "file": "Tools/mise-en-place.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gerenci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Path to Senior Engineer - GitHub resources.md",
+                "file": "Tools/mise-en-place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Path to Senior Engineer - GitHub resources.md",
+                "file": "Tools/mise-en-place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Path to Senior Engineer - GitHub resources.md"
+                "file": "Tools/mise-en-place.md"
               }
             }
           },
@@ -157,6 +158,7 @@
   },
   "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
+    "Learning/Path to Senior Engineer - GitHub resources.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
     "Spike em métodos ágeis.md",
     "Readme.md",
@@ -185,7 +187,6 @@
     "Languagens/Pointers.md",
     "Languagens/C.md",
     "Frameworks/Video tutorial - Spring Security 6.md",
-    "Frameworks/Spring Boot Resources for Advanced Learners.md",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
