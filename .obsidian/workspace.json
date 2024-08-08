@@ -11,12 +11,8 @@
             "id": "ab2df2bdda395f18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languagens/Go/Golang, por onde começar?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languagens/Go/Golang, por onde começar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languagens/Go/Golang, por onde começar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Languagens/Go/Golang, por onde começar?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +149,10 @@
   },
   "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
-    "Tools/mise-en-place.md",
+    "carreira/3 dicas alternativas pra você buscar seu trabalho no exterior (e manter ele no longo prazo).md",
     "Languagens/Go/Golang, por onde começar?.md",
+    "carreira",
+    "Tools/mise-en-place.md",
     "Languagens/Go",
     "Learning/Path to Senior Engineer - GitHub resources.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
@@ -186,7 +180,6 @@
     "Processos",
     "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
     "Languagens/Pointers.md",
-    "Languagens/C.md",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
@@ -200,7 +193,6 @@
     "Tools",
     "Software Engineer",
     "Sem título.canvas",
-    "Learning",
     "Pasted image 20231121195751.png"
   ]
 }
