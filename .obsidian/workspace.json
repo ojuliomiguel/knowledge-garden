@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/mise-en-place.md",
+                "file": "Languagens/Go/Golang, por onde começar?.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/mise-en-place.md",
+                "file": "Languagens/Go/Golang, por onde começar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/mise-en-place.md",
+                "file": "Languagens/Go/Golang, por onde começar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/mise-en-place.md"
+                "file": "Languagens/Go/Golang, por onde começar?.md"
               }
             }
           },
@@ -158,6 +157,9 @@
   },
   "active": "ab2df2bdda395f18",
   "lastOpenFiles": [
+    "Tools/mise-en-place.md",
+    "Languagens/Go/Golang, por onde começar?.md",
+    "Languagens/Go",
     "Learning/Path to Senior Engineer - GitHub resources.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
     "Spike em métodos ágeis.md",
@@ -176,7 +178,6 @@
     "Fundamentos/Putting the \"You\" in CPU.md",
     "Tools/AstroVim.md",
     "Fundamentos",
-    "Tools/mise-en-place.md",
     "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
     "Tools/Tools.md",
     "Tools/Browse a cleaner web.md",
@@ -186,7 +187,6 @@
     "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
     "Languagens/Pointers.md",
     "Languagens/C.md",
-    "Frameworks/Video tutorial - Spring Security 6.md",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
@@ -201,7 +201,6 @@
     "Software Engineer",
     "Sem título.canvas",
     "Learning",
-    "Dojo",
     "Pasted image 20231121195751.png"
   ]
 }
