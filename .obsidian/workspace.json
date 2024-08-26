@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abc67b6f82989c26",
+        "id": "6e6036bbe44a22be",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2df2bdda395f18",
+            "id": "09131835eee24a58",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gerenci",
+                "query": "err",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab2df2bdda395f18",
+  "active": "51b0f5287d7fca90",
   "lastOpenFiles": [
+    "Languagens/Java/Java Challenges Cracking the Coding Interview based on real interviews.md",
+    "Livros/Livros.md",
+    "Languagens/Java/Java.md",
     "carreira/3 dicas alternativas pra você buscar seu trabalho no exterior (e manter ele no longo prazo).md",
     "Languagens/Go/Golang, por onde começar?.md",
     "carreira",
@@ -176,10 +180,7 @@
     "Tools/Tools.md",
     "Tools/Browse a cleaner web.md",
     "Software Engineer/Sem título.md",
-    "Processos/Artigo sobre documentação de design de código no Google.md",
     "Processos",
-    "Languagens/Pointers in C for Absolute Beginners - FreeCodCamp.md",
-    "Languagens/Pointers.md",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
     "Sistemas Operacionais/Pasted image 20231128104059.png",
