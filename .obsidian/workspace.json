@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "err",
+                "query": "ex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
