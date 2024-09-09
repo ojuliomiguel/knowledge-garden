@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51b0f5287d7fca90",
+  "active": "7b27ade8ac4aa110",
   "lastOpenFiles": [
     "Languagens/Java/Java Challenges Cracking the Coding Interview based on real interviews.md",
     "Livros/Livros.md",
