@@ -11,12 +11,8 @@
             "id": "09131835eee24a58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,6 +149,11 @@
   },
   "active": "09131835eee24a58",
   "lastOpenFiles": [
+    "Web/TCP-IP for Programmers.md",
+    "Web/Rest.md",
+    "Web/REST e HTTP são a mesma coisa?.md",
+    "Web/Richardson Maturity Model.md",
+    "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
     "Dojo/Candidate Test Product catalog management system in a marketplace application.md",
     "Languagens/Java/Java Challenges Cracking the Coding Interview based on real interviews.md",
     "Livros/Livros.md",
@@ -175,7 +171,6 @@
     "Pasted image 20231128101713.png",
     "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
     "Arquitetura/System Design Roadmap with Videos for SDEs.md",
-    "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
     "Arquitetura/Modular Monolithic Architecture.md",
     "Arquitetura/Listão de conteúdo sobre Monólitos Modulares.md",
     "Arquitetura/Hexagonal com Java.md",
@@ -183,11 +178,7 @@
     "Fundamentos/CRUD Sem internet.md",
     "Tools/How to Run GitHub Actions Locally Using the act CLI Tool.md",
     "Fundamentos/Putting the \"You\" in CPU.md",
-    "Tools/AstroVim.md",
     "Fundamentos",
-    "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
-    "Tools/Tools.md",
-    "Tools/Browse a cleaner web.md",
     "Processos",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
