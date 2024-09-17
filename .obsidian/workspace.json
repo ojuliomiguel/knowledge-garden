@@ -11,8 +11,12 @@
             "id": "09131835eee24a58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arquitetura/NodeJs, TDD e Clean Architecture - Mango.md"
+              }
             }
           },
           {
@@ -147,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b27ade8ac4aa110",
+  "active": "09131835eee24a58",
   "lastOpenFiles": [
+    "Dojo/Candidate Test Product catalog management system in a marketplace application.md",
     "Languagens/Java/Java Challenges Cracking the Coding Interview based on real interviews.md",
     "Livros/Livros.md",
     "Languagens/Java/Java.md",
@@ -178,7 +188,6 @@
     "Tools/Neovim + Tmux Workflow As A DevOps Engineer On MacOS.md",
     "Tools/Tools.md",
     "Tools/Browse a cleaner web.md",
-    "Software Engineer/Sem título.md",
     "Processos",
     "Languagens/JavaScript",
     "Sistemas Operacionais/Pasted image 20231228203431.png",
