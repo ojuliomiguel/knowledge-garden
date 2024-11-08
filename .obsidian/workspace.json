@@ -11,12 +11,10 @@
             "id": "09131835eee24a58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +64,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +123,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -155,13 +166,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09131835eee24a58",
+  "active": "51b0f5287d7fca90",
   "lastOpenFiles": [
+    "Soft Skill/How to win buy-in for big changes.md",
+    "Arquitetura/Flag Argument.md",
+    "Soft Skill",
+    "Arquitetura/Hexagonal com Java.md",
+    "Software Engineer/Untitled.md",
+    "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md",
     "Languagens/Java/Java.md",
     "Languagens/Java/Does JRE 17 not exist?.md",
     "Languagens/Java/JRE.md",
     "Languagens/Java/Micronaut.md",
-    "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md",
     "Languagens/Java/JDK.md",
     "Fundamentos/CRUD Sem internet.md",
     "Web/TCP-IP for Programmers.md",
@@ -181,11 +197,7 @@
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
     "Spike em métodos ágeis.md",
     "Readme.md",
-    "Javascript.md",
     "Pasted image 20231128101713.png",
-    "Arquitetura/Typescript, TDD e Clean Architecture - Mango.md",
-    "Arquitetura/System Design Roadmap with Videos for SDEs.md",
-    "Arquitetura/Modular Monolithic Architecture.md",
     "Fundamentos",
     "Processos",
     "Languagens/JavaScript",
@@ -199,7 +211,6 @@
     "Sem título 1.canvas",
     "Arquitetura",
     "Tools",
-    "Software Engineer",
     "Sem título.canvas",
     "Pasted image 20231121195751.png"
   ]
