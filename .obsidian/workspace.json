@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Java",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -166,8 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51b0f5287d7fca90",
+  "active": "09131835eee24a58",
   "lastOpenFiles": [
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Soft Skill/How to win buy-in for big changes.md",
     "Arquitetura/Flag Argument.md",
     "Soft Skill",
@@ -196,7 +200,6 @@
     "Learning/Path to Senior Engineer - GitHub resources.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
     "Spike em métodos ágeis.md",
-    "Readme.md",
     "Pasted image 20231128101713.png",
     "Fundamentos",
     "Processos",
