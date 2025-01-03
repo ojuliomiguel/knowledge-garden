@@ -11,10 +11,14 @@
             "id": "09131835eee24a58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/ShadcnUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ShadcnUI"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Front",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -169,6 +171,9 @@
   },
   "active": "09131835eee24a58",
   "lastOpenFiles": [
+    "Web/Certificado Profissional IBM Front-End Developer.md",
+    "Frontend/ShadcnUI.md",
+    "Frontend",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -200,7 +205,6 @@
     "Languagens/Go",
     "Learning/Path to Senior Engineer - GitHub resources.md",
     "Learning/Stop Taking Regular Notes; Use a Zettelkasten Instead.md",
-    "Spike em métodos ágeis.md",
     "Pasted image 20231128101713.png",
     "Fundamentos",
     "Processos",
@@ -214,7 +218,6 @@
     "Assets",
     "Sem título 1.canvas",
     "Arquitetura",
-    "Tools",
     "Sem título.canvas",
     "Pasted image 20231121195751.png"
   ]
