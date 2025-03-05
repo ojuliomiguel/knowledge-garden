@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Front",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09131835eee24a58",
+  "active": "51b0f5287d7fca90",
   "lastOpenFiles": [
     "Frontend/ShadcnUI.md",
     "Design Patterns/Estratégias de Retry Pattern com Backoff Exponencial e Jitter.md",
