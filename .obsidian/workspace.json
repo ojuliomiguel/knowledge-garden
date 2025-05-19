@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ativ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "16e884d6a1e7e0f1",
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09131835eee24a58",
+  "active": "51b0f5287d7fca90",
   "lastOpenFiles": [
     "Languagens/Java/Java.md",
     "Tools/ArchUnit.md",
