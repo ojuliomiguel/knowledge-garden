@@ -4,36 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e6036bbe44a22be",
+        "id": "f7a000a73a23c3f2",
         "type": "tabs",
         "children": [
           {
-            "id": "09131835eee24a58",
+            "id": "51120586cbe823be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "57541e293ff039ba",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,9 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09131835eee24a58",
+  "active": "51120586cbe823be",
   "lastOpenFiles": [
+    "2026-01-14.md",
+    "Javascript.md",
+    "Pasted image 20231128101713.png",
+    "Readme.md",
     "Untitled 1.canvas",
+    "Untitled.canvas",
     "Fundamentos/system design.md",
     "Languagens/Java/Java.md",
     "Tools/ArchUnit.md",
@@ -197,10 +183,6 @@
     "Tools/mise-en-place.md",
     "Tools/Browse APIs - Free Apis.md",
     "Tools/Browse a cleaner web.md",
-    "Untitled.canvas",
-    "Readme.md",
-    "Pasted image 20231128101713.png",
-    "Javascript.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Tools/Tilt.md",
@@ -219,7 +201,6 @@
     "Languagens/Java/Micronaut.md",
     "Languagens/Java/JDK.md",
     "Fundamentos/CRUD Sem internet.md",
-    "Web/TCP-IP for Programmers.md",
     "carreira",
     "Languagens/Go",
     "Fundamentos",
