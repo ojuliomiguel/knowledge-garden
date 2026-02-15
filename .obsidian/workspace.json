@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "e838c9ee8cba52a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "4c60abba2030c88b",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "system design"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fee7434c96c7788f",
+  "active": "e838c9ee8cba52a8",
   "lastOpenFiles": [
     "Software Engineer/awesome-system-design-resources.md",
     "Software Engineer/awesome-low-level-design.md",
