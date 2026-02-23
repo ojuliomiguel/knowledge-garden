@@ -21,12 +21,10 @@
             "id": "e838c9ee8cba52a8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -197,6 +195,8 @@
   },
   "active": "e838c9ee8cba52a8",
   "lastOpenFiles": [
+    "Insights/O que deve ser feito.md",
+    "Insights",
     "Software Engineer/awesome-system-design-resources.md",
     "Software Engineer/awesome-low-level-design.md",
     "Fundamentos/system design.md",
@@ -230,7 +230,6 @@
     "Languagens/Java/Does JRE 17 not exist?.md",
     "Languagens/Java/JRE.md",
     "Languagens/Java/Micronaut.md",
-    "Languagens/Java/JDK.md",
     "carreira",
     "Languagens/Go",
     "Fundamentos",
@@ -242,7 +241,6 @@
     "Assets/graph.png",
     "Assets/Pasted image 20240130151343.png",
     "Devops",
-    "Assets",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Pasted image 20231121195751.png"
