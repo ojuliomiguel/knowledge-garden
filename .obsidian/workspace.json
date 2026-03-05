@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "9fe5a2d211c015b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "4c60abba2030c88b",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e838c9ee8cba52a8",
+  "active": "9fe5a2d211c015b8",
   "lastOpenFiles": [
     "Insights/O que deve ser feito.md",
     "Insights",
