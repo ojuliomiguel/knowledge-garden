@@ -31,12 +31,14 @@
             "id": "9fe5a2d211c015b8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "AI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "AI"
             }
           },
           {
@@ -54,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,8 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fe5a2d211c015b8",
+  "active": "e838c9ee8cba52a8",
   "lastOpenFiles": [
+    "AI.md",
+    "IA/Frontier engineering.md",
+    "IA/Prompt engineering oficial doc.md",
+    "IA/ChatGPT.md",
+    "IA/Learn ANYTHING with LLMs.md",
     "Insights/O que deve ser feito.md",
     "Insights",
     "Software Engineer/awesome-system-design-resources.md",
@@ -237,11 +246,6 @@
     "Arquitetura/Flag Argument.md",
     "Soft Skill",
     "Arquitetura/Hexagonal com Java.md",
-    "Software Engineer/Untitled.md",
-    "Languagens/Java/Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak.md",
-    "Languagens/Java/Does JRE 17 not exist?.md",
-    "Languagens/Java/JRE.md",
-    "Languagens/Java/Micronaut.md",
     "carreira",
     "Languagens/Go",
     "Fundamentos",
